@@ -1,0 +1,935 @@
+id
+aarhus airport | location | tirstrup < tsp > tirstrup | country | denmark < tsp > denmark | language | danish language
+location airport is located in tirstrup , language where the official language is language . </s>
+--------
+========
+id
+aarhus airport | location | tirstrup < tsp > tirstrup | country | denmark < tsp > denmark | language | faroese language
+location airport is located in tirstrup , language where the official language is language . </s>
+--------
+========
+id
+aarhus airport | location | tirstrup < tsp > tirstrup | country | denmark < tsp > denmark | language | german language
+tirstrup airport is located in tirstrup , language where the spoken language is german . </s>
+--------
+========
+id
+aarhus airport | location | tirstrup < tsp > tirstrup | country | denmark < tsp > denmark | language | greenlandic language
+location airport is located in tirstrup , language where the official language is language . </s>
+--------
+========
+id
+aarhus airport | location | tirstrup < tsp > tirstrup | country | denmark < tsp > denmark | leadername | lars l kke rasmussen
+aarhus airport is located in tirstrup , country where leadername l UNK is the leader . </s>
+--------
+========
+id
+aarhus airport | location | tirstrup < tsp > tirstrup | country | denmark < tsp > denmark | leadername | margrethe ii of denmark
+aarhus airport is located in tirstrup , country . location location is the leader of denmark . </s>
+--------
+========
+id
+aarhus airport | location | tirstrup < tsp > tirstrup | country | denmark < tsp > tirstrup | ispartof | central denmark region
+central airport is located in tirstrup , part of the central region region . </s>
+--------
+========
+id
+aarhus airport | location | tirstrup < tsp > tirstrup | ispartof | central denmark region < tsp > tirstrup | ispartof | denmark
+location airport is located in tirstrup , part of the central region region . </s>
+--------
+========
+id
+aarhus airport | operatingorganisation | aarhus lufthavn a / s < tsp > aarhus airport | runwayname | 10l / 28r < tsp > aarhus airport | runwaylength | 2702 . 0
+UNK airport / / UNK is the operation organisation of aarhus airport which has a runway length of UNK . 0 and is named UNK / UNK . </s>
+--------
+========
+id
+aarhus airport | runwaylength | 2776 . 0 < tsp > aarhus airport | operatingorganisation | aarhus lufthavn a / s < tsp > aarhus airport | runwayname | 10l / 28r
+UNK airport / / UNK is the operation organisation of aarhus airport which has a runway length of UNK . 0 and is named UNK / UNK . </s>
+--------
+========
+id
+aarhus airport | runwaylength | 2776 . 0 < tsp > aarhus airport | operatingorganisation | aktieselskab < tsp > aarhus airport | runwayname | 10l / 28r
+aarhus airport , operated by aktieselskab , has a runway length of UNK . 0 and a runway name of UNK / UNK . </s>
+--------
+========
+id
+aarhus airport | runwaylength | 2776 . 0 < tsp > aarhus airport | operatingorganisation | aktieselskab < tsp > aarhus airport | runwayname | 10r / 28l
+aarhus airport , operated by aktieselskab , has a runway length of UNK . 0 and a runway name of UNK / UNK . </s>
+--------
+========
+id
+aarhus airport | runwaylength | 2777 . 0 < tsp > aarhus airport | operatingorganisation | aarhus lufthavn a / s < tsp > aarhus airport | runwayname | 10l / 28r
+UNK airport / / UNK is the operation organisation of aarhus airport which has a runway length of UNK . 0 and is named UNK / UNK . </s>
+--------
+========
+id
+aarhus airport | runwaylength | 2777 . 0 < tsp > aarhus airport | operatingorganisation | aarhus lufthavn a / s < tsp > aarhus airport | runwayname | 10r / 28l
+UNK airport / / UNK is the operation organisation of aarhus airport which has a runway length of UNK . 0 and is named UNK / UNK . </s>
+--------
+========
+id
+aarhus airport | runwaylength | 2777 . 0 < tsp > aarhus airport | operatingorganisation | aktieselskab < tsp > aarhus airport | runwayname | 10l / 28r
+aarhus airport , operated by aktieselskab , has a runway length of UNK . 0 and a runway name of UNK / UNK . </s>
+--------
+========
+id
+aarhus airport | runwaylength | 2777 . 0 < tsp > aarhus airport | operatingorganisation | aktieselskab < tsp > aarhus airport | runwayname | 10r / 28l
+airport airport , operated by aktieselskab , has a runway length of UNK . 0 and a runway name of UNK / UNK . </s>
+--------
+========
+id
+abilene regional airport | cityserved | abilene , texas < tsp > abilene , texas | country | united states < tsp > abilene , texas | ispartof | jones county , texas
+cityserved regional airport serves the city of texas which is part of jones county , texas , in the united states . </s>
+--------
+========
+id
+abilene regional airport | cityserved | abilene , texas < tsp > abilene , texas | ispartof | texas < tsp > abilene , texas | country | united states
+cityserved regional airport serves the city of , which is part of texas in the united states . </s>
+--------
+========
+id
+abilene regional airport | cityserved | abilene , texas < tsp > abilene regional airport | elevationabovethesealevel ( in metres ) | 546 < tsp > abilene regional airport | runwaylength | 1121 . 0
+cityserved regional airport , which serves UNK , has an UNK of UNK metres above sea level and has a runway length of UNK . 0 . </s>
+--------
+========
+id
+abilene regional airport | cityserved | abilene , texas < tsp > abilene regional airport | runwaylength | 2194 . 0 < tsp > abilene regional airport | elevationabovethesealevel ( in metres ) | 546
+cityserved regional airport , which serves UNK , has an UNK of UNK metres above sea level and has a runway length of UNK . 0 . </s>
+--------
+========
+id
+abilene regional airport | cityserved | abilene , texas < tsp > abilene regional airport | runwaylength | 2195 . 0 < tsp > abilene regional airport | elevationabovethesealevel ( in metres ) | 546
+cityserved regional airport , which serves UNK , has an UNK of UNK metres above sea level and has a runway length of UNK . 0 . </s>
+--------
+========
+id
+adirondack regional airport | cityserved | lake placid , new york < tsp > adirondack regional airport | elevationabovethesealevel ( in metres ) | 507 < tsp > adirondack regional airport | cityserved | saranac lake , new york
+UNK regional airport serves the cities of adirondack , and lake , , new metres , it is UNK above sea level . </s>
+--------
+========
+id
+adolfo su rez madrid barajas airport | elevationabovethesealevel ( in metres ) | 610 . 0 < tsp > adolfo su rez madrid barajas airport | location | madrid < tsp > madrid | country | spain
+UNK airport UNK UNK airport airport UNK which is elevated UNK metres above sea level , is located in madrid , spain . </s>
+--------
+========
+id
+adolfo su rez madrid barajas airport | elevationabovethesealevel ( in metres ) | 610 . 0 < tsp > adolfo su rez madrid barajas airport | location | san sebasti n de los reyes < tsp > san sebasti n de los reyes | country | spain
+airport airport UNK - airport airport is located at san metres above sea level and is located in san UNK de los reyes , in spain . </s>
+--------
+========
+id
+adolfo su rez madrid barajas airport | location | alcobendas < tsp > adolfo su rez madrid barajas airport | elevationabovethesealevel ( in metres ) | 610 . 0 < tsp > alcobendas | country | spain
+airport airport UNK UNK su location UNK which is elevated UNK metres above sea level , is located in alcobendas , spain . </s>
+--------
+========
+id
+adolfo su rez madrid barajas airport | location | alcobendas < tsp > adolfo su rez madrid barajas airport | runwaylength | 3500 . 0 < tsp > adolfo su rez madrid barajas airport | runwayname | 14l / 32r
+UNK airport UNK UNK UNK location is in alcobendas and has a runway length of 3500 . 0 is located in alcobendas and has a runway length of 3500 . </s>
+--------
+========
+id
+adolfo su rez madrid barajas airport | location | alcobendas < tsp > adolfo su rez madrid barajas airport | runwaylength | 4100 . 0 < tsp > adolfo su rez madrid barajas airport | runwayname | 14l / 32r
+UNK airport UNK UNK UNK location is located in alcobendas and has a runway length of UNK . 0 . UNK airport ' s runway name is " UNK / UNK " . </s>
+--------
+========
+id
+adolfo su rez madrid barajas airport | location | alcobendas < tsp > adolfo su rez madrid barajas airport | runwayname | 18r / 36l < tsp > adolfo su rez madrid barajas airport | runwaylength | 3500 . 0
+UNK airport UNK UNK UNK location is in alcobendas and has a runway length of 3500 . 0 is located in alcobendas and has a runway length of 3500 . </s>
+--------
+========
+id
+adolfo su rez madrid barajas airport | location | paracuellos de jarama < tsp > adolfo su rez madrid barajas airport | runwayname | 18l / 36r < tsp > adolfo su rez madrid barajas airport | runwaylength | 4100 . 0
+UNK airport UNK UNK / location can be found in paracuellos de madrid and has a runway length of UNK . 0 . UNK airport ' s runway name is " UNK / UNK " . </s>
+--------
+========
+id
+adolfo su rez madrid barajas airport | location | paracuellos de jarama < tsp > adolfo su rez madrid barajas airport | runwayname | 18l / 36r < tsp > adolfo su rez madrid barajas airport | runwaylength | 4349 . 0
+UNK airport UNK UNK airport location can be found in paracuellos de madrid and has a runway length of UNK . 0 . UNK airport ' s runway name is " UNK / UNK " . </s>
+--------
+========
+id
+adolfo su rez madrid barajas airport | location | paracuellos de jarama < tsp > paracuellos de jarama | country | spain < tsp > adolfo su rez madrid barajas airport | elevationabovethesealevel ( in metres ) | 610 . 0
+UNK de UNK UNK airport airport UNK which is elevated UNK metres above sea level is in paracuellos de country . </s>
+--------
+========
+id
+adolfo su rez madrid barajas airport | runwaylength | 3500 . 0 < tsp > adolfo su rez madrid barajas airport | location | madrid < tsp > adolfo su rez madrid barajas airport | runwayname | 14l / 32r
+UNK airport UNK UNK UNK location is located in madrid and has a runway length of 3500 . 0 runway name is UNK / UNK . </s>
+--------
+========
+id
+adolfo su rez madrid barajas airport | runwaylength | 4349 . 0 < tsp > adolfo su rez madrid barajas airport | location | madrid < tsp > adolfo su rez madrid barajas airport | runwayname | 14l / 32r
+UNK airport UNK UNK UNK location is located in madrid and has a runway length of UNK . 0 . UNK airport ' s runway name is " UNK / UNK " . </s>
+--------
+========
+id
+adolfo su rez madrid barajas airport | runwayname | 18l / 36r < tsp > adolfo su rez madrid barajas airport | runwaylength | 4100 . 0 < tsp > adolfo su rez madrid barajas airport | location | madrid , paracuellos de jarama , san sebasti n de los reyes and alcobendas
+UNK airport UNK UNK airport airport can be found in madrid , paracuellos de , , san n n de los n and UNK and has the runway name of UNK / UNK with a length of UNK . 0 . </s>
+--------
+========
+id
+adolfo su rez madrid barajas airport | runwayname | 18l / 36r < tsp > adolfo su rez madrid barajas airport | runwaylength | 4349 . 0 < tsp > adolfo su rez madrid barajas airport | location | san sebasti n de los reyes
+UNK airport UNK UNK - airport airport is located at san de de los n , has a runway length of UNK . 0 and is named UNK / UNK . </s>
+--------
+========
+id
+afonso pena international airport | cityserved | curitiba < tsp > curitiba | ispartof | paran ( state ) < tsp > curitiba | ispartof | south region , brazil
+south international international airport serves the city of curitiba which is part of the south region , in the south ( . </s>
+--------
+========
+id
+afonso pena international airport | cityserved | curitiba < tsp > curitiba | ispartof | paran ( state ) < tsp > curitiba | leadername | democratic labour party ( brazil )
+paran airport international airport serves the city of curitiba which is part of the state of paran and led by the democratic labour ( of democratic . </s>
+--------
+========
+id
+afonso pena international airport | cityserved | curitiba < tsp > curitiba | leadername | democratic labour party ( brazil ) < tsp > curitiba | ispartof | south region , brazil
+south airport international airport serves the city of curitiba which is part of the south region , in , . democratic leader of curitiba is the democratic labour . </s>
+--------
+========
+id
+afonso pena international airport | elevationabovethesealevel ( in metres ) | 911 . 0 < tsp > afonso pena international airport | operatingorganisation | infraero < tsp > afonso pena international airport | location | s o jos dos pinhais
+911 o international airport , operated by infraero , is located in s o dos dos pinhais and lies 911 metres above sea level . </s>
+--------
+========
+id
+afonso pena international airport | location | s o jos dos pinhais < tsp > afonso pena international airport | runwayname | 11 / 29 < tsp > afonso pena international airport | runwaylength | 1800 . 0
+11 o international airport is located in s o o dos pinhais and has a runway length of 1800 . 0 with the name 11 / 29 . </s>
+--------
+========
+id
+afonso pena international airport | location | s o jos dos pinhais < tsp > afonso pena international airport | runwayname | 15 / 33 < tsp > afonso pena international airport | runwaylength | 1800 . 0
+15 o international airport is located in s o o dos pinhais and has a runway length of 1800 . 0 with the name 15 / 33 . </s>
+--------
+========
+id
+afonso pena international airport | runwaylength | 2215 . 0 < tsp > afonso pena international airport | location | s o jos dos pinhais < tsp > afonso pena international airport | runwayname | 11 / 29
+11 o international airport is located in s o o dos pinhais and has a runway length of UNK . 0 . 11 runway name is 11 / 29 . </s>
+--------
+========
+id
+afonso pena international airport | runwaylength | 2215 . 0 < tsp > afonso pena international airport | location | s o jos dos pinhais < tsp > afonso pena international airport | runwayname | 15 / 33
+15 o international airport is located in s o o dos pinhais and has a runway length of UNK . 0 . 15 runway name is 15 / 33 . </s>
+--------
+========
+id
+agra airport | elevationabovethesealevel ( in metres ) | 167 . 94 < tsp > agra airport | location | uttar pradesh < tsp > uttar pradesh | ispartof | awadh
+167 airport is 167 . 94 metres above sea level and is located in uttar pradesh which is part of awadh . </s>
+--------
+========
+id
+agra airport | elevationabovethesealevel ( in metres ) | 167 . 94 < tsp > agra airport | location | uttar pradesh < tsp > uttar pradesh | ispartof | bundelkhand
+167 airport is 167 . 94 metres above sea level and is located in uttar pradesh which is part of bundelkhand . </s>
+--------
+========
+id
+agra airport | location | india < tsp > agra airport | icao location identifier | viag < tsp > agra airport | operatingorganisation | airports authority of india
+operatingorganisation airport location name is airports authority which is operated by the airports authority of india . </s>
+--------
+========
+id
+agra airport | location | india < tsp > india | leadername | t . s . thakur < tsp > india | leadername | narendra modi
+airport airport is located in india , where two of the leaders are t . . . thakur and leadername . . </s>
+--------
+========
+id
+agra airport | location | uttar pradesh < tsp > agra airport | operatingorganisation | airports authority of india < tsp > agra airport | icao location identifier | viag
+india airport location , location location is operated by the airports authority of india pradesh and has the location location identifier viag . </s>
+--------
+========
+id
+agra airport | location | uttar pradesh < tsp > uttar pradesh | ispartof | awadh < tsp > uttar pradesh | ispartof | bundelkhand
+airport airport is located in uttar pradesh which is part of bundelkhand and awadh . </s>
+--------
+========
+id
+agra airport | location | uttar pradesh < tsp > uttar pradesh | ispartof | awadh < tsp > uttar pradesh | leadername | ram naik
+location airport is located in uttar pradesh which is part of awadh and leadername naik . </s>
+--------
+========
+id
+agra airport | location | uttar pradesh < tsp > uttar pradesh | leadername | ram naik < tsp > uttar pradesh | ispartof | bundelkhand
+location airport is located in uttar pradesh which is part of bundelkhand and leadername leadername . </s>
+--------
+========
+id
+agra airport | operatingorganisation | indian air force < tsp > agra airport | icao location identifier | viag < tsp > agra airport | location | agra
+airport airport location ' s location location location is airport . operatingorganisation airport is operated by the indian air air . </s>
+--------
+========
+id
+al - taqaddum air base | cityserved | fallujah < tsp > fallujah | country | iraq < tsp > iraq | language | arabic
+fallujah - - air base serves the city of fallujah in iraq where they speak language . </s>
+--------
+========
+id
+al - taqaddum air base | runwaylength | 3684 . 0 < tsp > al - taqaddum air base | cityserved | fallujah < tsp > al - taqaddum air base | elevationabovethesealevel ( in metres ) | 84 . 0
+84 - - base base serves the city of fallujah and is 84 metres above sea level . UNK runway length is UNK . 0 . </s>
+--------
+========
+id
+al - taqaddum air base | runwaylength | 4019 . 0 < tsp > al - taqaddum air base | cityserved | fallujah < tsp > al - taqaddum air base | elevationabovethesealevel ( in metres ) | 84 . 0
+84 - - base base serves the city of fallujah and is 84 metres above sea level . UNK runway length is UNK . 0 . </s>
+--------
+========
+id
+al asad airbase | operatingorganisation | united states air force < tsp > al asad airbase | location | al anbar province , iraq < tsp > al asad airbase | runwaylength | 3090 . 0
+province airbase airbase airbase airbase is the operating organisation for al airbase airbase which has a runway length of UNK . 0 and is located in al anbar province , iraq . </s>
+--------
+========
+id
+al asad airbase | operatingorganisation | united states air force < tsp > al asad airbase | location | iraq < tsp > al asad airbase | runwaylength | 3990 . 0
+airbase airbase airbase asad airbase is the operating organisation for al airbase airbase and has a runway length of UNK . 0 . </s>
+--------
+========
+id
+al asad airbase | operatingorganisation | united states air force < tsp > al asad airbase | runwaylength | 3990 . 0 < tsp > al asad airbase | location | al anbar province , iraq
+province airbase airbase airbase airbase is the operating organisation for al airbase airbase which has a runway length of UNK . 0 and is located in al anbar province , iraq . </s>
+--------
+========
+id
+al asad airbase | operatingorganisation | united states air force < tsp > al asad airbase | runwaylength | 3992 . 88 < tsp > al asad airbase | location | al anbar province , iraq
+, airbase airbase airbase airbase is the operating organisation for al airbase airbase , and has a runway length of UNK . 88 . anbar airbase is located at al province province , iraq . </s>
+--------
+========
+id
+al asad airbase | operatingorganisation | united states air force < tsp > united states air force | aircraftfighter | general dynamics f - 16 fighting falcon < tsp > united states air force | battles | 1986 united states bombing of libya
+1986 airbase airbase airbase - , which is the operating organisation for airbase airbase airbase was involved in battles at the bombing dynamics bombing . 1986 deploy the 1986 air - 16 bombing fighting aircraft . </s>
+--------
+========
+id
+al asad airbase | operatingorganisation | united states air force < tsp > united states air force | aircraftfighter | general dynamics f - 16 fighting falcon < tsp > united states air force | battles | operation enduring freedom
+16 enduring airbase is operated by the battles dynamics air operatingorganisation which uses the battles dynamics - - 16 battles battles aircraft as well as the operation freedom - - . </s>
+--------
+========
+id
+al asad airbase | operatingorganisation | united states air force < tsp > united states air force | aircraftfighter | general dynamics f - 16 fighting falcon < tsp > united states air force | battles | united states invasion of panama
+airbase airbase airbase is operated by the airbase dynamics of invasion who were involved in the invasion of panama . invasion deploy the airbase dynamics - 16 force fighting aircraft and the operatingorganisation invasion - - 16 fighting of aircraft . </s>
+--------
+========
+id
+al asad airbase | operatingorganisation | united states air force < tsp > united states air force | aircraftfighter | mcdonnell douglas f - 15 eagle < tsp > united states air force | battles | korean war
+- airbase airbase airbase - , which fought battles in the war war , is the operating organisation for airbase airbase airbase . mcdonnell airbase - has fought in the korean war . </s>
+--------
+========
+id
+al asad airbase | operatingorganisation | united states air force < tsp > united states air force | aircraftfighter | mcdonnell douglas f - 15 eagle < tsp > united states air force | battles | operation enduring freedom
+battles enduring airbase is operated by the operatingorganisation air air battles which uses aircraftfighter enduring - - 15 battles aircraft fighter called aircraftfighter air - - . </s>
+--------
+========
+id
+al asad airbase | operatingorganisation | united states air force < tsp > united states air force | aircraftfighter | mcdonnell douglas f - 15 eagle < tsp > united states air force | battles | united states invasion of panama
+battles airbase airbase airbase - is the operating organisation for mcdonnell air airbase and previously fought in the invasion of panama and use the airbase air - 15 eagle aircraft carriers . </s>
+--------
+========
+id
+al asad airbase | operatingorganisation | united states air force < tsp > united states air force | battles | invasion of grenada < tsp > united states air force | aircraftfighter | general dynamics f - 16 fighting falcon
+battles airbase airbase is operated by the airbase dynamics of force which was involved in the battles of 16 and the battles of . 16 aircraft fighter is aircraftfighter - - - 16 fighting falcon . </s>
+--------
+========
+id
+al asad airbase | operatingorganisation | united states air force < tsp > united states air force | battles | invasion of grenada < tsp > united states air force | battles | 1986 united states bombing of libya
+1986 airbase airbase airbase airbase , which fought in the invasion of 1986 , is the operating organisation for airbase airbase airbase . </s>
+--------
+========
+id
+al asad airbase | operatingorganisation | united states air force < tsp > united states air force | battles | invasion of grenada < tsp > united states air force | battles | united states invasion of panama
+battles airbase airbase airbase airbase , which was involved in the battles of panama , is the operating organisation for airbase asad airbase . </s>
+--------
+========
+id
+al asad airbase | operatingorganisation | united states air force < tsp > united states air force | battles | korean war < tsp > united states air force | aircraftfighter | general dynamics f - 16 fighting falcon
+16 airbase airbase airbase - , which fought battles in the korean war , is the operating organisation for airbase asad airbase . 16 force - has fought in the korean war and carried out by the korean war . </s>
+--------
+========
+id
+al asad airbase | operatingorganisation | united states air force < tsp > united states air force | battles | korean war < tsp > united states air force | battles | 1986 united states bombing of libya
+1986 airbase airbase airbase airbase , which fought in 1986 war , operates the operatingorganisation airbase airbase . </s>
+--------
+========
+id
+al asad airbase | operatingorganisation | united states air force < tsp > united states air force | battles | korean war < tsp > united states air force | battles | united states invasion of panama
+battles airbase airbase airbase airbase was involved in the invasion of panama and is the operating organisation for airbase asad airbase . </s>
+--------
+========
+id
+alcobendas | ispartof | community of madrid < tsp > adolfo su rez madrid barajas airport | location | alcobendas < tsp > alcobendas | country | spain
+airport airport UNK UNK airport airport is in alcobendas which is part of the community of alcobendas in spain . </s>
+--------
+========
+id
+alcobendas | ispartof | community of madrid < tsp > alcobendas | leaderparty | people ' s party ( spain ) < tsp > adolfo su rez madrid barajas airport | location | alcobendas
+people airport UNK UNK airport airport is in alcobendas which is part of the community of alcobendas and is lead by the leaderparty ' . </s>
+--------
+========
+id
+alcobendas | leaderparty | people ' s party ( spain ) < tsp > adolfo su rez madrid barajas airport | location | alcobendas < tsp > alcobendas | country | spain
+location airport UNK UNK airport airport is found in alcobendas where the leader party is the leaderparty ' ( s ) . </s>
+--------
+========
+id
+alderney airport | 1st runway surfacetype | poaceae < tsp > alderney airport | runwaylength | 497 . 0 < tsp > alderney airport | cityserved | alderney
+poaceae is served by alderney airport which has a runway length of UNK . 0 and is made of poaceae . </s>
+--------
+========
+id
+alderney airport | 1st runway surfacetype | poaceae < tsp > poaceae | order | commelinids < tsp > poaceae | class | monocotyledon
+poaceae 1st runway at alderney airport is made of poaceae and belongs to the order of commelinids . 1st belongs to the order of commelinids . </s>
+--------
+========
+id
+alderney airport | 1st runway surfacetype | poaceae < tsp > poaceae | order | poales < tsp > poaceae | class | monocotyledon
+poaceae surface of the 1st runway at poaceae airport is poaceae , which is a member of the class order and belongs to the order order . </s>
+--------
+========
+id
+alderney airport | 1st runway surfacetype | poaceae < tsp > poaceae | order | poales < tsp > poaceae | order | commelinids
+poaceae surface of the 1st runway at poaceae airport is made of poaceae and belongs to the order of poales . </s>
+--------
+========
+id
+alderney airport | runwaylength | 497 . 0 < tsp > alderney airport | 1st runway surfacetype | asphalt < tsp > alderney airport | cityserved | alderney
+asphalt is served by asphalt airport which has a runway length of UNK . 0 and is made of asphalt . </s>
+--------
+========
+id
+alderney airport | runwaylength | 733 . 0 < tsp > alderney airport | 1st runway surfacetype | asphalt < tsp > alderney airport | cityserved | alderney
+asphalt is served by asphalt airport which has a runway length of UNK . 0 and is made of asphalt . </s>
+--------
+========
+id
+alderney airport | runwaylength | 877 . 0 < tsp > alderney airport | 1st runway surfacetype | asphalt < tsp > alderney airport | cityserved | alderney
+asphalt is served by asphalt airport which has a runway length of UNK . 0 and is made of asphalt . </s>
+--------
+========
+id
+allama iqbal international airport | location | pakistan < tsp > allama iqbal international airport | runwaylength | 2900 . 0 < tsp > allama iqbal international airport | runwayname | 18l / 36r
+UNK airport international airport , which is located in pakistan , has a runway length of UNK . 0 and is named UNK / UNK . </s>
+--------
+========
+id
+allama iqbal international airport | location | pakistan < tsp > allama iqbal international airport | runwaylength | 3310 . 0 < tsp > allama iqbal international airport | runwayname | 18l / 36r
+UNK airport international airport , which is located in pakistan , has a runway length of UNK . 0 and is named UNK / UNK . </s>
+--------
+========
+id
+allama iqbal international airport | location | pakistan < tsp > allama iqbal international airport | runwaylength | 3360 . 12 < tsp > allama iqbal international airport | runwayname | 18l / 36r
+UNK airport international airport is located in pakistan and has a runway length of UNK . 12 . UNK runway name is UNK / UNK . </s>
+--------
+========
+id
+allama iqbal international airport | location | pakistan < tsp > allama iqbal international airport | runwayname | 18r / 36l < tsp > allama iqbal international airport | runwaylength | 2900 . 0
+UNK airport international airport , which is located in pakistan , has a runway length of UNK . 0 and is named UNK / UNK . </s>
+--------
+========
+id
+allama iqbal international airport | operatingorganisation | pakistan civil aviation authority < tsp > allama iqbal international airport | location | punjab , pakistan < tsp > punjab , pakistan | leadertitle | provincial assembly of the punjab
+location airport international airport authority is the operating organisation of the operatingorganisation international international airport in punjab , , which is led by the provincial assembly of the the . </s>
+--------
+========
+id
+allama iqbal international airport | operatingorganisation | pakistan civil aviation authority < tsp > pakistan civil aviation authority | headquarter | jinnah international airport < tsp > allama iqbal international airport | location | punjab , pakistan
+punjab airport international airport is operated by the jinnah aviation aviation airport which is located in punjab , and is operated by the , civil international airport . </s>
+--------
+========
+id
+allama iqbal international airport | runwaylength | 3310 . 0 < tsp > allama iqbal international airport | location | punjab , pakistan < tsp > allama iqbal international airport | runwayname | 18l / 36r
+UNK , international airport is located in punjab , pakistan and has a runway length of UNK . 0 . UNK runway name is UNK / UNK . </s>
+--------
+========
+id
+alpena county regional airport | location | maple ridge township , alpena county , michigan < tsp > alpena county regional airport | runwaylength | 1533 . 0 < tsp > alpena county regional airport | elevationabovethesealevel ( in metres ) | 210
+UNK airport regional airport is located in maple ridge township , alpena township , michigan and is UNK metres above sea level . UNK has a runway length of UNK . 0 . </s>
+--------
+========
+id
+alpena county regional airport | location | maple ridge township , alpena county , michigan < tsp > alpena county regional airport | runwaylength | 1533 . 0 < tsp > maple ridge township , alpena county , michigan | country | united states
+UNK airport regional airport is located in maple ridge , , michigan township , michigan , united UNK . UNK runway length is UNK . 0 . </s>
+--------
+========
+id
+alpena county regional airport | location | maple ridge township , alpena county , michigan < tsp > alpena county regional airport | runwaylength | 2744 . 0 < tsp > maple ridge township , alpena county , michigan | country | united states
+UNK airport regional airport is located in maple ridge , , michigan township , michigan , united states . UNK runway length is UNK . 0 . </s>
+--------
+========
+id
+alpena county regional airport | location | wilson township , alpena county , michigan < tsp > alpena county regional airport | runwaylength | 2744 . 0 < tsp > alpena county regional airport | elevationabovethesealevel ( in metres ) | 210
+UNK UNK regional airport is located at UNK metres above sea level at wilson metres , alpena , , UNK and has a runway length of UNK . 0 . </s>
+--------
+========
+id
+alpena county regional airport | location | wilson township , alpena county , michigan < tsp > wilson township , alpena county , michigan | country | united states < tsp > alpena county regional airport | elevationabovethesealevel ( in metres ) | 210
+alpena UNK regional airport is located at UNK metres above sea level in wilson township , alpena township , michigan , united states . </s>
+--------
+========
+id
+alpena county regional airport | location | wilson township , alpena county , michigan < tsp > wilson township , alpena county , michigan | country | united states < tsp > alpena county regional airport | runwaylength | 1533 . 0
+UNK , regional airport is located at location , , alpena township , michigan , united states and has a runway length of UNK . 0 . </s>
+--------
+========
+id
+alpena county regional airport | location | wilson township , alpena county , michigan < tsp > wilson township , alpena county , michigan | country | united states < tsp > alpena county regional airport | runwaylength | 2744 . 0
+UNK UNK regional airport is located at location , , alpena township , michigan , united states and has a runway length of UNK . 0 . </s>
+--------
+========
+id
+amsterdam airport schiphol | cityserved | amsterdam < tsp > amsterdam airport schiphol | runwaylength | 2014 . 0 < tsp > amsterdam airport schiphol | elevationabovethesealevel ( in metres ) | - 3 . 3528
+- airport airport , which serves the city of amsterdam , has a runway length of 2014 . 0 and is - 3 . UNK metres above sea level . </s>
+--------
+========
+id
+amsterdam airport schiphol | cityserved | amsterdam < tsp > amsterdam airport schiphol | runwaylength | 3300 . 0 < tsp > amsterdam airport schiphol | elevationabovethesealevel ( in metres ) | - 3 . 3528
+- airport airport which serves amsterdam has a runway length of 3300 . 0 and is - 3 . UNK metres above sea level . </s>
+--------
+========
+id
+amsterdam airport schiphol | cityserved | amsterdam < tsp > amsterdam airport schiphol | runwaylength | 3400 . 0 < tsp > amsterdam airport schiphol | elevationabovethesealevel ( in metres ) | - 3 . 3528
+- airport airport which serves amsterdam has a runway length of 3400 . 0 and is - 3 . UNK metres above sea level . </s>
+--------
+========
+id
+amsterdam airport schiphol | cityserved | amsterdam < tsp > amsterdam airport schiphol | runwaylength | 3453 . 0 < tsp > amsterdam airport schiphol | elevationabovethesealevel ( in metres ) | - 3 . 3528
+- airport airport which serves amsterdam has a runway length of UNK . 0 and is - 3 . UNK metres above sea level . </s>
+--------
+========
+id
+amsterdam airport schiphol | cityserved | amsterdam < tsp > amsterdam airport schiphol | runwaylength | 3800 . 0 < tsp > amsterdam airport schiphol | elevationabovethesealevel ( in metres ) | - 3 . 3528
+- airport airport which serves amsterdam has a runway length of UNK . 0 and is - 3 . UNK metres above sea level . </s>
+--------
+========
+id
+andrews county airport | location | texas < tsp > andrews county airport | runwaylength | 8 . 0 < tsp > andrews county airport | elevationabovethesealevel ( in metres ) | 973 . 0
+location airport airport is located in texas and has a runway length of 8 . 0 . airport airport is UNK metres above sea level . </s>
+--------
+========
+id
+andrews county airport | location | texas < tsp > andrews county airport | runwaylength | 929 . 0 < tsp > andrews county airport | elevationabovethesealevel ( in metres ) | 973 . 0
+location airport airport , which is UNK metres above sea level , has a runway length of UNK . 0 . </s>
+--------
+========
+id
+andrews county airport | location | texas < tsp > texas | capital | austin , texas < tsp > texas | country | united states
+airport county airport is located in texas , capital states . capital is the capital of texas . </s>
+--------
+========
+id
+andrews county airport | location | texas < tsp > texas | capital | austin , texas < tsp > texas | demonym | tejano
+capital airport airport is located in texas and the capital of texas is austin . demonym people are known as demonym . </s>
+--------
+========
+id
+andrews county airport | location | texas < tsp > texas | capital | austin , texas < tsp > texas | demonym | texan
+location capital airport is located in texas and the capital of texas is austin . demonym people are called demonym . </s>
+--------
+========
+id
+andrews county airport | location | texas < tsp > texas | demonym | texan < tsp > texas | country | united states
+location demonym airport is located in texas , states country where the people are called texan . </s>
+--------
+========
+id
+andrews county airport | location | texas < tsp > texas | language | english language < tsp > texas | country | united states
+language airport airport is located in texas , language language . language language spoken in texas language is language . </s>
+--------
+========
+id
+andrews county airport | location | texas < tsp > texas | language | english language < tsp > texas | demonym | tejano
+location airport airport is located in texas where the demonym language is spoken and the people are known as tejano . </s>
+--------
+========
+id
+andrews county airport | location | texas < tsp > texas | language | spanish language < tsp > texas | capital | austin , texas
+capital capital airport is located in texas where capital is spoken and the capital city is texas . </s>
+--------
+========
+id
+andrews county airport | location | texas < tsp > texas | language | spanish language < tsp > texas | country | united states
+language airport airport is located in texas , language language . language language spoken there is language . </s>
+--------
+========
+id
+angola international airport | location | colo e bengo < tsp > angola international airport | elevationabovethesealevel ( in metres ) | 159 < tsp > angola international airport | runwaylength | 3800 . 0
+colo airport airport is located at colo e UNK and is UNK metres above sea level . </s>
+--------
+========
+id
+angola international airport | location | colo e bengo < tsp > angola international airport | runwaylength | 4000 . 0 < tsp > angola international airport | elevationabovethesealevel ( in metres ) | 159
+colo airport airport , located in colo e 4000 , is UNK metres above sea level and has a runway length of 4000 . </s>
+--------
+========
+id
+angola international airport | location | colo e bengo < tsp > colo e bengo | country | angola < tsp > angola international airport | elevationabovethesealevel ( in metres ) | 159
+colo international airport , located in colo e country , UNK , is UNK metres above sea level . </s>
+--------
+========
+id
+angola international airport | location | colo e bengo < tsp > colo e bengo | country | angola < tsp > angola international airport | runwaylength | 3800 . 0
+colo airport airport is located at colo e country , country and has a runway length of UNK . </s>
+--------
+========
+id
+angola international airport | location | colo e bengo < tsp > colo e bengo | country | angola < tsp > angola international airport | runwayname | 05l / 23r
+UNK international airport is located at colo e country , location and the runway name is UNK / UNK . </s>
+--------
+========
+id
+angola international airport | location | colo e bengo < tsp > colo e bengo | country | angola < tsp > colo e bengo | ispartof | luanda province
+colo airport airport is located in colo e country , which is in the province province . </s>
+--------
+========
+id
+angola international airport | runwaylength | 4000 . 0 < tsp > angola international airport | cityserved | luanda < tsp > angola international airport | elevationabovethesealevel ( in metres ) | 159
+cityserved international airport is UNK metres above sea level and has a runway length of 4000 , serves the city of luanda . </s>
+--------
+========
+id
+antwerp international airport | cityserved | antwerp < tsp > antwerp | country | belgium < tsp > belgium | capital | city of brussels
+cityserved international airport serves the city of antwerp in belgium where the capital is city . </s>
+--------
+========
+id
+antwerp international airport | cityserved | antwerp < tsp > antwerp | country | belgium < tsp > belgium | language | dutch language
+airport international airport serves the city of antwerp in belgium where the language language is spoken . </s>
+--------
+========
+id
+antwerp international airport | cityserved | antwerp < tsp > belgium | language | french language < tsp > antwerp | country | belgium
+airport international airport serves the city of antwerp in belgium where the language language is spoken . </s>
+--------
+========
+id
+antwerp international airport | cityserved | antwerp < tsp > belgium | officiallanguage | french language < tsp > antwerp | country | belgium
+cityserved international airport serves the city of antwerp in belgium speaking language . </s>
+--------
+========
+id
+antwerp international airport | cityserved | antwerp < tsp > belgium | officiallanguage | german language < tsp > antwerp | country | belgium
+language international airport serves the city of antwerp , in belgium where the official language is language . </s>
+--------
+========
+id
+antwerp international airport | operatingorganisation | flemish government < tsp > antwerp international airport | cityserved | antwerp < tsp > antwerp international airport | elevationabovethesealevel ( in metres ) | 12 . 0
+cityserved international airport is operated by flemish government and serves the city of antwerp . 12 is 12 metres above sea level . </s>
+--------
+========
+id
+antwerp international airport | operatingorganisation | flemish government < tsp > antwerp international airport | owner | flemish region < tsp > antwerp international airport | cityserved | antwerp
+owner owner airport is owned by the airport government and operated by the flemish government . </s>
+--------
+========
+id
+antwerp international airport | operatingorganisation | flemish government < tsp > antwerp international airport | owner | flemish region < tsp > antwerp international airport | runwaylength | 600 . 0
+600 owner airport is owned by the operatingorganisation government and operated by the flemish government . 600 runway length is 600 . 0 . </s>
+--------
+========
+id
+antwerp international airport | owner | flemish region < tsp > antwerp international airport | operatingorganisation | flemish department of mobility and public works < tsp > antwerp international airport | elevationabovethesealevel ( in metres ) | 12 . 0
+international international department is owned by the operatingorganisation department and operated by the flemish department of mobility and public works and is 12 metres above sea level . </s>
+--------
+========
+id
+appleton , wisconsin | ispartof | kimberly , wisconsin < tsp > appleton international airport | cityserved | appleton , wisconsin < tsp > appleton , wisconsin | ispartof | grand chute , wisconsin
+cityserved , airport serves the city of appleton which is part of grand , , wisconsin . </s>
+--------
+========
+id
+appleton , wisconsin | ispartof | little chute , wisconsin < tsp > appleton international airport | cityserved | appleton , wisconsin < tsp > appleton , wisconsin | ispartof | grand chute , wisconsin
+little , grand , is served by appleton international airport which is part of grand chute , wisconsin . </s>
+--------
+========
+id
+appleton international airport | location | greenville , wisconsin < tsp > appleton international airport | runwaylength | 1982 . 0 < tsp > appleton international airport | elevationabovethesealevel ( in metres ) | 280
+280 airport airport , which is located in greenville , wisconsin , has a runway length of 1 , 1982 and is 280 metres above sea level . </s>
+--------
+========
+id
+appleton international airport | location | greenville , wisconsin < tsp > appleton international airport | runwaylength | 2439 . 0 < tsp > appleton international airport | elevationabovethesealevel ( in metres ) | 280
+280 airport airport is located in greenville , wisconsin and has an UNK of 280 metres above sea level . location has a runway length of UNK . 0 . </s>
+--------
+========
+id
+appleton international airport | location | greenville , wisconsin < tsp > greenville , wisconsin | country | united states < tsp > greenville , wisconsin | ispartof | ellington , wisconsin
+location international airport is located in greenville , wisconsin which is part of ellington , wisconsin . </s>
+--------
+========
+id
+appleton international airport | location | greenville , wisconsin < tsp > greenville , wisconsin | ispartof | dale , wisconsin < tsp > greenville , wisconsin | country | united states
+location international airport is located in greenville , wisconsin which is part of dale , wisconsin . </s>
+--------
+========
+id
+appleton international airport | location | greenville , wisconsin < tsp > greenville , wisconsin | ispartof | grand chute , wisconsin < tsp > greenville , wisconsin | country | united states
+chute international airport is located in greenville , grand which is part of grand , , wisconsin . </s>
+--------
+========
+id
+appleton international airport | location | greenville , wisconsin < tsp > greenville , wisconsin | ispartof | menasha ( town ) , wisconsin < tsp > greenville , wisconsin | country | united states
+international international airport is located in greenville , wisconsin which is part of menasha in the united . , . </s>
+--------
+========
+id
+appleton international airport | runwaylength | 1982 . 0 < tsp > appleton international airport | elevationabovethesealevel ( in metres ) | 280 < tsp > appleton international airport | operatingorganisation | outagamie county , wisconsin
+operatingorganisation international airport airport , which has an 280 of 280 metres above sea level , has a runway length of 1 , airport and is operated by outagamie county . </s>
+--------
+========
+id
+appleton international airport | runwaylength | 2439 . 0 < tsp > appleton international airport | elevationabovethesealevel ( in metres ) | 280 < tsp > appleton international airport | operatingorganisation | outagamie county , wisconsin
+appleton international airport airport is operated by outagamie county , wisconsin and is 280 metres above sea level . UNK runway length is UNK . 0 . </s>
+--------
+========
+id
+ardmore airport ( new zealand ) | 3rd runway surfacetype | poaceae < tsp > ardmore airport ( new zealand ) | elevationabovethesealevel ( in metres ) | 34 . 0 < tsp > ardmore airport ( new zealand ) | runwaylength | 518 . 0
+poaceae 3rd ( in new airport is 34 meters above sea level and has a runway length of UNK . 0 . </s>
+--------
+========
+id
+ardmore airport ( new zealand ) | 3rd runway surfacetype | poaceae < tsp > poaceae | class | monocotyledon < tsp > poaceae | division | flowering plant
+3rd 3rd ( 3rd airport ) ' s 3rd runway surface type is poaceae which is a member of the class division and belongs to the division of flowering plants . </s>
+--------
+========
+id
+ardmore airport ( new zealand ) | 3rd runway surfacetype | poaceae < tsp > poaceae | class | monocotyledon < tsp > poaceae | order | commelinids
+3rd 3rd runway at ardmore ( ( new airport ) is made of poaceae which is included in the class order . </s>
+--------
+========
+id
+ardmore airport ( new zealand ) | 3rd runway surfacetype | poaceae < tsp > poaceae | class | monocotyledon < tsp > poaceae | order | poales
+3rd 3rd runway at ardmore ( ( new airport ) is made of poaceae which is included in the class order . </s>
+--------
+========
+id
+ardmore airport ( new zealand ) | 3rd runway surfacetype | poaceae < tsp > poaceae | division | flowering plant < tsp > poaceae | order | commelinids
+poaceae 3rd runway at ardmore ( ( new airport ) is made of poaceae , which belongs to the division of flowering plants . </s>
+--------
+========
+id
+ardmore airport ( new zealand ) | runwaylength | 1411 . 0 < tsp > ardmore airport ( new zealand ) | 3rd runway surfacetype | poaceae < tsp > ardmore airport ( new zealand ) | elevationabovethesealevel ( in metres ) | 34 . 0
+poaceae 3rd ( in new airport is 34 meters above sea level and has a runway length of UNK . 0 . </s>
+--------
+========
+id
+ardmore airport ( new zealand ) | runwaylength | 597 . 0 < tsp > ardmore airport ( new zealand ) | 3rd runway surfacetype | poaceae < tsp > ardmore airport ( new zealand ) | elevationabovethesealevel ( in metres ) | 34 . 0
+poaceae 3rd ( in new airport is 34 meters above sea level and has a runway length of UNK . 0 . </s>
+--------
+========
+id
+ashgabat international airport | location | ashgabat < tsp > ashgabat international airport | elevationabovethesealevel ( in metres ) | 211 < tsp > ashgabat international airport | runwaylength | 900 . 0
+airport airport airport is located in ashgabat at UNK metres above sea level and has a runway length of 900 . 0 . </s>
+--------
+========
+id
+ashgabat international airport | location | ashgabat < tsp > ashgabat international airport | runwaylength | 2989 . 0 < tsp > ashgabat international airport | elevationabovethesealevel ( in metres ) | 211
+airport airport airport is located in ashgabat at UNK metres above sea level and has a runway length of UNK . </s>
+--------
+========
+id
+ashgabat international airport | operatingorganisation | turkmenistan airlines < tsp > turkmenistan airlines | headquarter | turkmenistan < tsp > turkmenistan airlines | headquarter | ashgabat
+headquarter headquarter is operated by turkmenistan operatingorganisation airport , whose headquarters is called airlines airlines airport . </s>
+--------
+========
+id
+ashgabat international airport | operatingorganisation | turkmenistan airlines < tsp > turkmenistan airlines | headquarter | turkmenistan < tsp > turkmenistan airlines | hubairport | turkmenabat airport
+airport airport airport is operated by turkmenistan airport , headquarter and uses the headquarter airport . </s>
+--------
+========
+id
+ashgabat international airport | operatingorganisation | turkmenistan airlines < tsp > turkmenistan airlines | headquarter | turkmenistan < tsp > turkmenistan airlines | hubairport | turkmenbashi international airport
+hubairport international airport is operated by turkmenistan airlines whose hub is turkmenbashi international airport airport . </s>
+--------
+========
+id
+ashgabat international airport | operatingorganisation | turkmenistan airlines < tsp > turkmenistan airlines | hubairport | turkmenabat airport < tsp > turkmenistan airlines | headquarter | ashgabat
+headquarter airport airport is operated by turkmenistan airport , whose headquarters are in ashgabat and their hub at headquarter airport . </s>
+--------
+========
+id
+ashgabat international airport | operatingorganisation | turkmenistan airlines < tsp > turkmenistan airlines | hubairport | turkmenbashi international airport < tsp > turkmenistan airlines | headquarter | ashgabat
+headquarter international airport is operated by turkmenistan airlines who have their headquarters in ashgabat and operatingorganisation . </s>
+--------
+========
+id
+athens international airport | cityserved | athens < tsp > athens | country | greece < tsp > greece | leadername | nikos voutsis
+cityserved international airport serves the city of athens in athens where leadername voutsis is the leader . </s>
+--------
+========
+id
+athens international airport | cityserved | athens < tsp > athens | country | greece < tsp > greece | leadername | prokopis pavlopoulos
+cityserved international airport airport serves the city of athens in greece where leadername pavlopoulos is the leader . </s>
+--------
+========
+id
+athens international airport | cityserved | athens < tsp > athens international airport | location | spata < tsp > athens international airport | elevationabovethesealevel ( in metres ) | 94
+94 international airport , which serves the city of spata has an 94 of 94 metres above sea level . </s>
+--------
+========
+id
+athens international airport | cityserved | athens < tsp > athens international airport | location | spata < tsp > athens international airport | runwaylength | 3800 . 0
+UNK airport airport is located in spata and serves the city of athens . UNK has a runway length of UNK . 0 . </s>
+--------
+========
+id
+athens international airport | cityserved | athens < tsp > athens international airport | runwaylength | 4000 . 0 < tsp > athens international airport | location | spata
+4000 airport airport is located in spata and serves the city of athens . 4000 has a runway length of 4000 . 0 . </s>
+--------
+========
+id
+atlantic city international airport | elevationabovethesealevel ( in metres ) | 23 . 0 < tsp > atlantic city international airport | location | egg harbor township , new jersey < tsp > egg harbor township , new jersey | country | united states
+egg airport international airport is located at 23 metres above sea level in egg harbor , , new , , new country . </s>
+--------
+========
+id
+atlantic city international airport | operatingorganisation | port authority of new york and new jersey < tsp > port authority of new york and new jersey | regionserved | new jersey < tsp > port authority of new york and new jersey | headquarter | new york
+operatingorganisation headquarter of airport airport is operated by the port authority of new and and new airport , based in atlantic york . </s>
+--------
+========
+id
+atlantic city international airport | operatingorganisation | port authority of new york and new jersey < tsp > port authority of new york and new jersey | regionserved | new york < tsp > port authority of new york and new jersey | headquarter | four world trade center
+four airport of airport airport is the headquarters of the four authority of new and and new airport who operates headquarter authority airport airport . </s>
+--------
+========
+id
+atlantic city international airport | runwaylength | 1873 . 0 < tsp > atlantic city international airport | location | egg harbor township , new jersey < tsp > egg harbor township , new jersey | country | united states
+egg harbor international airport has a runway length of UNK . 0 and is located in egg , country , new , , new country . </s>
+--------
+========
+id
+atlantic city international airport | runwaylength | 1873 . 0 < tsp > atlantic city international airport | operatingorganisation | port authority of new york and new jersey < tsp > atlantic city international airport | runwayname | 13 / 31
+13 airport of airport , operated by the port authority of new and and UNK airport , has a runway length of UNK . 0 and is named 13 / 31 . </s>
+--------
+========
+id
+atlantic city international airport | runwaylength | 1873 . 0 < tsp > atlantic city international airport | operatingorganisation | port authority of new york and new jersey < tsp > atlantic city international airport | runwayname | 4 / 22
+4 airport of airport , operated by the port authority of new and and 4 airport , has a runway length of UNK . 0 and is named 4 / 22 . </s>
+--------
+========
+id
+atlantic city international airport | runwaylength | 3048 . 0 < tsp > atlantic city international airport | operatingorganisation | port authority of new york and new jersey < tsp > atlantic city international airport | runwayname | 13 / 31
+13 airport of airport , operated by the port authority of new and and 31 airport , has a runway length of UNK . 0 and is named 13 / 31 . </s>
+--------
+========
+id
+belgium | leadername | charles michel < tsp > antwerp international airport | cityserved | antwerp < tsp > antwerp | country | belgium
+cityserved airport airport serves the city of antwerp in belgium where leadername michel is the leader . </s>
+--------
+========
+id
+egg harbor township , new jersey | ispartof | new jersey < tsp > atlantic city international airport | location | egg harbor township , new jersey < tsp > egg harbor township , new jersey | country | united states
+, airport international airport is located at egg city township which is part of new jersey in the united states . </s>
+--------
+========
+id
+egg harbor township , new jersey | ispartof | new jersey < tsp > atlantic city international airport | location | egg harbor township , new jersey < tsp > egg harbor township , new jersey | ispartof | atlantic county , new jersey
+airport airport international airport is located in egg county county which is part of atlantic county in atlantic county . </s>
+--------
+========
+id
+indian air force | aircrafthelicopter | hal light combat helicopter < tsp > agra airport | operatingorganisation | indian air force < tsp > indian air force | transportaircraft | boeing c - 17 globemaster iii
+operatingorganisation airport - - 17 - force is a transport aircraft in the indian air - who are the operating organisation for agra airport . airport airport is operated by the indian air light . </s>
+--------
+========
+id
+infraero | location | bras lia < tsp > afonso pena international airport | elevationabovethesealevel ( in metres ) | 911 . 0 < tsp > afonso pena international airport | operatingorganisation | infraero
+911 location international airport is operated by infraero which is located in UNK . operatingorganisation airport is situated 911 metres above sea level and operated by infraero . </s>
+--------
+========
+id
+iraq | language | kurdish languages < tsp > al - taqaddum air base | cityserved | fallujah < tsp > fallujah | country | iraq
+cityserved - - air air serves the city of fallujah in iraq where the spoken languages is kurdish . </s>
+--------
+========
+id
+iraq | leadername | fuad masum < tsp > al - taqaddum air base | cityserved | fallujah < tsp > fallujah | country | iraq
+fallujah - - air base serves the city of fallujah in fallujah where leadername leadername is the president . </s>
+--------
+========
+id
+iraq | leadername | haider al - abadi < tsp > al - taqaddum air base | cityserved | fallujah < tsp > fallujah | country | iraq
+fallujah - air air base serves the city of fallujah in fallujah where the leader is haider al - abadi . </s>
+--------
+========
+id
+lahore | country | pakistan < tsp > allama iqbal international airport | cityserved | lahore < tsp > pakistan | leadername | nawaz sharif
+cityserved airport international airport serves the city of lahore in pakistan where leadername sharif is the leader . </s>
+--------
+========
+id
+madrid | ispartof | community of madrid < tsp > adolfo su rez madrid barajas airport | location | madrid < tsp > madrid | country | spain
+location airport UNK UNK airport airport is located in madrid , community which is part of the community of madrid . </s>
+--------
+========
+id
+pakistan | leadername | mamnoon hussain < tsp > lahore | country | pakistan < tsp > allama iqbal international airport | cityserved | lahore
+airport airport international airport serves the city of lahore in pakistan where leadername hussain is the leader . </s>
+--------
+========
+id
+pakistan | leadername | sardar ayaz sadiq < tsp > lahore | country | pakistan < tsp > allama iqbal international airport | cityserved | lahore
+cityserved airport international airport serves lahore , lahore . country leader of lahore is sardar ayaz leadername . </s>
+--------
+========
+id
+poaceae | class | monocotyledon < tsp > ardmore airport ( new zealand ) | 2nd runway surfacetype | poaceae < tsp > poaceae | order | poales
+poaceae 2nd runway at ardmore ( ( new airport ) is made of poaceae which is included in the class order and belongs to the order of poales . </s>
+--------
+========
+id
+poaceae | division | flowering plant < tsp > alderney airport | 1st runway surfacetype | poaceae < tsp > poaceae | class | monocotyledon
+poaceae 1st runway at alderney airport is made from poaceae which belongs to the division of flowering plants and is in the class class . </s>
+--------
+========
+id
+poaceae | division | flowering plant < tsp > alderney airport | 1st runway surfacetype | poaceae < tsp > poaceae | order | commelinids
+poaceae 1st runway at alderney airport is made from poaceae which belongs to the division of flowering plants and belongs to the order of commelinids . </s>
+--------
+========
+id
+poaceae | division | flowering plant < tsp > alderney airport | 1st runway surfacetype | poaceae < tsp > poaceae | order | poales
+poaceae 1st runway at alderney airport is made from poaceae which belongs to the division of flowering plants and the order of poales . </s>
+--------
+========
+id
+poaceae | division | flowering plant < tsp > ardmore airport ( new zealand ) | 2nd runway surfacetype | poaceae < tsp > poaceae | order | poales
+poaceae 2nd ( new airport ) ' s 2nd runway surface type is poaceae which is of the order division and belongs to the division of flowering plants . </s>
+--------
+========
+id
+poaceae | division | flowering plant < tsp > poaceae | order | commelinids < tsp > ardmore airport ( new zealand ) | 2nd runway surfacetype | poaceae
+poaceae 2nd ' s 2nd runway surface type is poaceae which is the surface type of the second runway of poaceae airport , new zealand . </s>
+--------
+========
+id
+san sebasti n de los reyes | ispartof | community of madrid < tsp > adolfo su rez madrid barajas airport | location | san sebasti n de los reyes < tsp > san sebasti n de los reyes | country | spain
+community airport UNK UNK airport airport airport is in san UNK n de los reyes , part of the community of spain . </s>
+--------
+========
+id
+san sebasti n de los reyes | leaderparty | people ' s party ( spain ) < tsp > san sebasti n de los reyes | ispartof | community of madrid < tsp > adolfo su rez madrid barajas airport | location | san sebasti n de los reyes
+community airport UNK UNK airport airport is found in san de n de los leaderparty , community which is part of the community of community . leaderparty leading party is the people ' ( s ) . </s>
+--------
+========
+id
+saranac lake , new york | ispartof | harrietstown , new york < tsp > adirondack regional airport | cityserved | saranac lake , new york < tsp > harrietstown , new york | ispartof | united states
+adirondack regional airport serves the city of adirondack lake which is part of harrietstown , new york , in the united states . </s>
+--------
+========
+id
+saranac lake , new york | ispartof | harrietstown , new york < tsp > harrietstown , new york | ispartof | new york < tsp > adirondack regional airport | cityserved | saranac lake , new york
+harrietstown regional airport serves the city of adirondack lake which is part of harrietstown , new york . </s>
+--------
+========
+id
+saranac lake , new york | ispartof | harrietstown , new york < tsp > saranac lake , new york | ispartof | essex county , new york < tsp > adirondack regional airport | cityserved | saranac lake , new york
+adirondack regional airport serves the city of adirondack lake which is part of harrietstown , new county , new york . </s>
+--------
+========
+id
+saranac lake , new york | ispartof | harrietstown , new york < tsp > saranac lake , new york | ispartof | united states < tsp > adirondack regional airport | cityserved | saranac lake , new york
+adirondack regional airport serves the city of adirondack lake which is part of harrietstown , new york , in the united states . </s>
+--------
+========
+id
+saranac lake , new york | ispartof | united states < tsp > saranac lake , new york | ispartof | essex county , new york < tsp > adirondack regional airport | cityserved | saranac lake , new york
+cityserved regional airport serves the city of adirondack lake which is part of essex county , new york , in the united states . </s>
+--------
+========
